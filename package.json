@@ -3,11 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
-
-"scripts": {
+  "scripts": {
     "test": "jest --verbose test/*"
   },
-
   "directories": {
     "lib": "lib",
     "test": "test"
@@ -24,5 +22,8 @@
   "homepage": "https://github.com/TRNisbet/TRN-Homework-10#readme",
   "devDependencies": {
     "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "inquirer": "^7.3.3"
   }
 }

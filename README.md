@@ -4,7 +4,11 @@ This Team Profile Generator will add employees to a list and display the entries
 
 
 The github repo address is: https://github.com/TRNisbet/TRN-Homework-10
-A screen shot of the test results are in the repo.  
+A screen shot of the test results are in the repo and can be seen here:
+https://github.com/TRNisbet/TRN-Homework-10/blob/main/HW10TestScreenShot.png
+
+A screen presentation of the app working is avaiable here:
+https://drive.google.com/file/d/1_r4e8ZcDKHuCBSxxvHJs0K-9joVui4GH/view
 
 
 
