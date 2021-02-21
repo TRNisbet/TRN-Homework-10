@@ -1,0 +1,35 @@
+body {
+    /* background-image: url('../assets/backdrop.jpg'); */
+    background-image: linear-gradient(to bottom right, rgb(119, 117, 117), rgb(32, 46, 170));
+    background-size: 100%;
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+
+.jumbotron {
+    background: rgba(255,255,255,0.7);
+    border-radius: 0px;
+    margin-top: 20px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.text-center {
+    font-size: 60px;
+    font-weight: 200;
+    color: black;
+    line-height: 55px;
+}
+
+.text-center,
+.card-title {
+    font-family: 'Roboto', sans-serif;
+}
+
+.card-header {
+    background-color: rgb(132, 140, 148);    
+}
+
+.employee-card {
+    margin: 30px;
+}
