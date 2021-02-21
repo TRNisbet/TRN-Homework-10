@@ -1,8 +1,10 @@
-# TRN-Homework-10
+# TRN-Homework-10: Team Profile Generator
+
+This Team Profile Generator will add employees to a list and display the entries in HTML.  The assignment used to have test which could be ran, and the project was passing the test, but now the test fail to run.  The error appears to be in the package,json, but it is beyond my ability to fix it.  
 
 
-
-
+The github repo address is: https://github.com/TRNisbet/TRN-Homework-10
+A screen shot of the test results are in the repo.  
 
 
 

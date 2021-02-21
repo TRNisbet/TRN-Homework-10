@@ -3,16 +3,14 @@
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
+
+"scripts": {
+    "test": "jest --verbose test/*"
+  },
+
   "directories": {
     "lib": "lib",
     "test": "test"
-  },
-  "dependencies": {
-    "inquirer": "^6.5.2"
-  },
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -23,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/TRNisbet/TRN-Homework-10/issues"
   },
-  "homepage": "https://github.com/TRNisbet/TRN-Homework-10#readme"
+  "homepage": "https://github.com/TRNisbet/TRN-Homework-10#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
 }
